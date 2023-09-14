@@ -1,0 +1,34 @@
+![](Images/Logos_Icons/main_banner.png)
+
+
+\
+
+:::{style="font-size: 20px"}
+Welcome to the official website of the **Santa Barbara Statistics Initiative (SBSI)**! We are currently in the process of becoming an officially registered chapter of the American Statistical Association, and were founded in 2023 at the University of California, Santa Barbara (UCSB).
+:::
+
+:::{style="font-size: 20px"}
+Our primary goal is to function as an umbrella organization for several preexisting Statistics and Data Science programs in existence at UCSB, providing support wherever necessary. Currently, we collaborate with the following organizations:
+:::
+
+<!-- PGC -->
+<div class="card bg-light mb-3" style="max-width: 20rem;">
+  <div class="card-header">PSTAT Grad Committee</div>
+  <p style="padding-top: 10px; text-align: center">
+    <a href="https://gradcommittee.pstat.ucsb.edu" target="_blank">
+      ![](Images/Logos_Icons/pgc.png){width='50%'}
+    </a>
+  </p>
+  <p style="padding-left: 20px; padding-right: 20px;padding-top: 10px">
+    The PSTAT Graduate Student Committee is the officially-recognized student association of graduate students in the Department of Statistics and Applied Probability (PSTAT) at UCSB.
+  </p>
+</div>
+
+
+<!-- DSC -->
+<div class="card bg-light mb-3" style="max-width: 20rem;">
+  <div class="card-header">Data Science Collaborative</div>
+  <p style="padding-left: 20px; padding-top: 10px">
+    More information to come at a later date.
+  </p>
+</div>

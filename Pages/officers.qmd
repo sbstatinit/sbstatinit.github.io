@@ -1,0 +1,42 @@
+---
+title: "Officers"
+---
+
+
+:::{.callout-note collapse="false"}
+## President and Founding Member: Ethan Marzban (He/Him)
+
+<table>
+  <tr>
+    <td style = "padding-right: 10pt">
+      <img src = "../Images/Profiles/Ethan.png" width = 200>
+    </td>
+    <td>
+      <p style = "font-size:24px"><b>Ethan Marzban</b></p>
+      <p>
+        Ethan is currently a PhD student in the PSTAT (Statistics and Applied Probability) department at the University of California, Santa Barbara, having earned his Bachelor's degree also in Statistics back in 2020. Outside of Statistics, he enjoys playing the piano, drinking boba, and talking about cats (and may or may not secretly be a cat himself).
+      </p>
+    </td>
+  </tr>
+</table>
+:::
+
+
+:::{.callout-note collapse="false"}
+## Faculty Advisor and Founding Member: Dr. Uma Ravat (She/Her)
+
+<table>
+  <tr>
+    <td style = "padding-right: 10pt">
+      <img src = "../Images/Profiles/placeholder.png" width = 200>
+    </td>
+    <td>
+      <p style = "font-size:24px"><b>Dr. Uma Ravat</b></p>
+      <p>
+        Dr. Ravat is currently an Assistant Teaching Professor in the PSTAT (Statistics and Applied Probability) department at the University of California, Santa Barbara.
+      </p>
+    </td>
+  </tr>
+</table>
+:::
+

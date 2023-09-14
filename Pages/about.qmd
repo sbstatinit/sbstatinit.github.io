@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Founded in 2023, the Santa Barbara Statistics Initiative (SBSI) aims to foster a greater involvement between Santa Barbara-area students (both undergraduate and graduate) and the fields of Statistics and Data Science. 
+
+Cognizant of the myriad of on-campus student organizations, the founders of SBSI opted to not simply overwrite the hard work of these organizations; rather, SBSI was designed as a sort of "umbrella" or "envelope" to encompass these already-existing organizations. 
+
+The main goals of SBSI are:
+
+- to provide support (financially, physically, and emotionally) to already-existing Statistics-related student organizations
+- to facilitate and host a variety of events throughout the academic year
+- to encourage greater interaction with Statistics and Data Science by all Santa Barbara-area students
