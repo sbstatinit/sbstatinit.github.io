@@ -1,5 +1,10 @@
 ![](Images/Logos_Icons/main_banner.png)
 
+\
+
+:::{style="font-size:35px"}
+*We are proud to be an official ![](Images/Logos_Icons/amstat.png){width=15%} Student Organization!*
+:::
 
 \
 
