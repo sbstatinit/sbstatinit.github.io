@@ -9,7 +9,7 @@
 \
 
 :::{style="font-size: 20px"}
-Welcome to the official website of the **Santa Barbara Statistics Initiative (SBSI)**! We are currently in the process of becoming an officially registered chapter of the American Statistical Association, and were founded in 2023 at the University of California, Santa Barbara (UCSB).
+Welcome to the official website of the **Santa Barbara Statistics Initiative (SBSI)**, founded in 2023 at the University of California, Santa Barbara (UCSB)!
 :::
 
 :::{style="font-size: 20px"}
