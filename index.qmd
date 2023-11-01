@@ -50,3 +50,22 @@ Our primary goal is to function as an umbrella organization for several preexist
 
 :::
 ::::
+
+
+:::{style="font-size: 20px"}
+We also plan to host a variety of events directly through the SBSI, including panels, talks, and a fun yet-to-be-announced friendly competition in Spring Quarter!
+:::
+
+\
+
+# _Please Join Our Information Session/Social!_
+
+:::{style="font-size: 20px"}
+- **Date/Time:** 11am - noon on Friday, November 17, 2023
+- **Location:** Bioengineering 1001
+- **RVSP:** <a href="https://bit.ly/sbsi-info" target="_blank">https://bit.ly/sbsi-info</a>
+:::
+
+:::{style="text-align:center"}
+![](Images/Flyers/infosession.svg){width="45%"}
+:::
