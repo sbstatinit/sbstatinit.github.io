@@ -64,6 +64,7 @@ We also plan to host a variety of events directly through the SBSI, including pa
 - **Date/Time:** 11am - noon on Friday, November 17, 2023
 - **Location:** Bioengineering 1001
 - **RVSP:** <a href="https://bit.ly/sbsi-info" target="_blank">https://bit.ly/sbsi-info</a>
+- **Slides:** <a href="https://docs.google.com/presentation/d/1Dw0g3nAzx4ASBeL__xtnJK8cvBTbsTK1msjXXukerqk/" target="_blank">Click Here</a>
 :::
 
 :::{style="text-align:center"}
